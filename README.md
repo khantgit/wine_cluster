@@ -3,6 +3,7 @@ This GitHub Repository serves the collection of files that are needed for the we
 
 ## Component	Explanation in Wine
 Alcohol: The percentage of ethanol produced during fermentation determines the wine’s body and sensation of warmth.
+
 Malic Acid: One of the primary acids found in grapes. High levels provide a sharp, tart taste (like green apples); often converted to softer lactic acid via malolactic fermentation.
 Ash: The inorganic mineral content that would remain if the wine were incinerated. It primarily relates to the grape’s mineral uptake from the soil (part of "terroir").
 Ash_Alcanity:	The alkalinity (basic strength) of the ash, which relates to the level of specific salts and buffering capacity of the wine.
